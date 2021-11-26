@@ -10,4 +10,4 @@ do not just copy and paste this into your main file.  I've given you the code, y
 
 
 remove the "const colors = require(./../../colors.json)
-line unless you have a colors.json file already.  do Ctrl + F and put into "colors.wip" and replace it with any other color.
+line unless you have a colors.json file already.  do Ctrl + F and put into the search "colors.wip" and replace it with any other color.
